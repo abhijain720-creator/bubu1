@@ -1,14 +1,2 @@
 
-#photo-final {
-    width: 10%;
-    text-align: center;
-    margin-top: 5px;   /* space above photo */
-    margin-bottom: 5px; /* space below photo */
-}
-
-#photo-final img {
-    width: 20px;          /* very small, like Yes/No buttons */
-    border-radius: 5px;  /* small rounded corners */
-    box-shadow: 0 5px 10px rgba(25, 0, 10, 0.3); /* subtle glow */
-    display: inline-block;
-}
+#photo-final 
